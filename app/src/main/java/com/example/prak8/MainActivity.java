@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
             mhome,mscience,mhealth,mentertainment,mtech,msports;
     PagerAdapter pagerAdapter;
     Toolbar mtoolbar;
-    String api_key = "d5ce7624d5894cb382812f3bf6bd59fd";
+    String api_key = "YOUR_NEWS_API_KEY";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
